@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/takiacademy/Desktop/task-manager/logs/.8a1662283e6ebd7f2c3e76ba583addde7c9dbc81-audit.json",
+    "files": [
+        {
+            "date": 1711441031052,
+            "name": "/Users/takiacademy/Desktop/task-manager/logs/2024-03-26.log",
+            "hash": "8d77213f8348dbd6f8f2d91f2bd330bbfe5aee5c3558045edb4626a011e9f80b"
+        }
+    ],
+    "hashType": "sha256"
+}
